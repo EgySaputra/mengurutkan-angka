@@ -1,5 +1,3 @@
-mengurutkan-angka
-=================
 #include <stdio.h>
 #include <conio.h>
 //Mengurutan angka dari yang terkecil ke yang terbesar
